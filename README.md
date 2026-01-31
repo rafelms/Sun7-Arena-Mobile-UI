@@ -37,4 +37,6 @@ Link do Figma: (https://www.figma.com/proto/F11AoRSyjM3REWPA7BhiQB/Sun7-Arena?no
 ![Tela Home](Protótipo%202/home.png)
 
 🧑‍💻 Autor
-Desenvolvido por Rafael Menezes de Santana como parte do estudo de interfaces centradas no usuário para o setor esportivo.
+Desenvolvido por Rafael Menezes de Santana como parte do estudo do
+ -> Projeto: Desafio de UI Design: Criação de Protótipos de Alta Fidelidade no Figma, proposto pelo professor Thiago Guimarães Tavares.
+> IFTO - Campus Palmas
