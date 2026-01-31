@@ -34,7 +34,7 @@ Arquivo Original: O arquivo .fig e as imagens estão disponíveis neste reposit�
 
 Link do Figma: (https://www.figma.com/proto/F11AoRSyjM3REWPA7BhiQB/Sun7-Arena?node-id=14-275&t=99FvzsyMctoKFQgV-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-![Home Sun7 Arena](Protótipo-2/home.png)
+![Tela Home](Protótipo%202/home.png)
 
 🧑‍💻 Autor
 Desenvolvido por Rafael Menezes de Santana como parte do estudo de interfaces centradas no usuário para o setor esportivo.
